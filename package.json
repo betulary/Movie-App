@@ -1,0 +1,25 @@
+{
+  "name": "todo-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "chart.js": "^4.1.2",
+    "core-js": "^3.8.3",
+    "hchs-vue-charts": "^1.2.8",
+    "swiper": "^10.3.1",
+    "vue": "^3.2.13",
+    "vue-chartjs": "^5.1.0",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "tailwindcss": "^3.3.3"
+  }
+}
